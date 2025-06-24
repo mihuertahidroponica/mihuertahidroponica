@@ -118,7 +118,7 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mihuertahidroponica&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estadísticas GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihuertahidroponica&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más usados">
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihuertahidroponica&theme=github-dark&hide_border=true" alt="Racha GitHub"> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihuertahidroponica&theme=github-dark&hide_border=true" alt="Racha GitHub"> 
   <img src="https://github-profile-trophy.vercel.app/?username=mihuertahidroponica&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
   
   <!-- Espacio visual entre logros y gráfica de contribución -->
