@@ -126,8 +126,14 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihuertahidroponica&theme=github-compact" alt="GitHub Contribution Graph">
   <img src="https://komarev.com/ghpvc/?username=mihuertahidroponica&label=Visitas&color=0e75b6&style=flat" alt="Profile views">
+
+  <!-- Animación de la serpiente de contribuciones que se adapta al tema claro/oscuro -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihuertahidroponica/mihuertahidroponica/main/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihuertahidroponica/mihuertahidroponica/main/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/mihuertahidroponica/mihuertahidroponica/main/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-<img src="https://raw.githubusercontent.com/mihuertahidroponica/mihuertahidroponica/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribución de la animación de la serpiente" style="max-width: 100%; text-align: center;">
 ---
 
 ## 📈 Actividad Reciente
