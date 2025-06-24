@@ -118,7 +118,7 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mihuertahidroponica&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estadísticas GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihuertahidroponica&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más usados">
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihuertahidroponica&theme=github-dark&hide_border=true" alt="Racha GitHub"> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihuertahidroponica&theme=github-dark&hide_border=true" alt="Racha GitHub"> 
   <img src="https://github-profile-trophy.vercel.app/?username=mihuertahidroponica&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
   
   <!-- Espacio visual entre logros y gráfica de contribución -->
@@ -127,7 +127,7 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihuertahidroponica&theme=github-compact" alt="GitHub Contribution Graph">
   <img src="https://komarev.com/ghpvc/?username=mihuertahidroponica&label=Visitas&color=0e75b6&style=flat" alt="Profile views">
 </p>
-<img src="https://raw.githubusercontent.com/mihuertahidroponica/mihuertahidroponica/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribución de la animación de la serpiente" style="max-width: 100%; text-align: center;">
+<img src="https://raw.githubusercontent.com/mihuertahidroponica/mihuertahidroponica/bce040dd98fe8c6a7a8852114a86f66b1175b8a7/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribución de la animación de la serpiente" style="max-width: 100%; text-align: center;">
 ---
 
 ## 📈 Actividad Reciente
