@@ -1,0 +1,23 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Ejecuta todos los días a medianoche
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mihuertahidroponica
+          outputs: |
+            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push the generated snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Genera la animación de la serpiente de contribuciones"
+          add: "output/github-contribution-grid-snake-dark.svg"
