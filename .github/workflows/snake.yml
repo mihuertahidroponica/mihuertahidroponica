@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: mihuertahidroponica
@@ -21,3 +24,26 @@ jobs:
           author_email: github-actions@github.com
           message: "Genera la animación de la serpiente de contribuciones"
           add: "output/github-contribution-grid-snake-dark.svg"
+
+      - name: Send email notification on failure
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          # Servidor de correo. Cambia 'smtp.gmail.com' si usas otro proveedor.
+          server_address: smtp.gmail.com
+          # Puerto del servidor de correo. 465 es común para SSL.
+          server_port: 465
+          # Tu email, guardado en los secrets.
+          username: ${{secrets.MAIL_USERNAME}}
+          # Tu contraseña de aplicación, guardada en los secrets.
+          password: ${{secrets.MAIL_PASSWORD}}
+          # Asunto del correo.
+          subject: "Fallo en el Workflow: ${{ github.workflow }} en ${{ github.repository }}"
+          # Cuerpo del correo con un enlace directo a la ejecución fallida.
+          body: |
+            El workflow "${{ github.workflow }}" ha fallado.
+            Puedes ver los detalles de la ejecución aquí: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          # Email del destinatario. ¡Asegúrate de cambiarlo por tu email!
+          to: curso.mihuertahidroponica@gmail.com
+          # Nombre del remitente (opcional).
+          from: Notificaciones GitHub Actions
