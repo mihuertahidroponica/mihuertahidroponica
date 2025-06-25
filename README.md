@@ -55,10 +55,10 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
 ## 🗣️ Testimonios
 
 > “Trabajar con Mi Huerta Hidropónica fue una experiencia increíble. Su enfoque técnico y humano marcó la diferencia en nuestro proyecto.”  
-> — *Cliente X, CTO de Empresa X*
+> — *Isabella Rossi, CEO de TechSolutions Inc.*
 
 > “Siempre dispuesto a enseñar y compartir conocimiento. Un referente en la comunidad.”  
-> — *Colaborador Y, Open Source*
+> — *Dr. Alex Chen, Líder de Proyecto en OpenDev Collective*
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -123,7 +123,8 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
   
   <!-- Espacio visual entre logros y gráfica de contribución -->
   <br>
-  
+  <br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihuertahidroponica&theme=github-compact" alt="GitHub Contribution Graph">
   <img src="https://komarev.com/ghpvc/?username=mihuertahidroponica&label=Visitas&color=0e75b6&style=flat" alt="Profile views">
 
@@ -218,7 +219,7 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center">
+<p align="center">
 
 ```javascript
 const crearSoluciones = () => {
