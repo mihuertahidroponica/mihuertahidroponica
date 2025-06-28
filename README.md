@@ -126,7 +126,6 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihuertahidroponica&theme=github-compact" alt="GitHub Contribution Graph">
-  <img src="https://komarev.com/ghpvc/?username=mihuertahidroponica&label=Visitas&color=0e75b6&style=flat" alt="Profile views">
 
   <!-- Animación de la serpiente de contribuciones que se adapta al tema claro/oscuro -->
   <picture>
@@ -135,7 +134,6 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
     <img alt="snake animation" src="https://raw.githubusercontent.com/mihuertahidroponica/mihuertahidroponica/main/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
----
 
 ## 📈 Actividad Reciente
 
