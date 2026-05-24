@@ -2,9 +2,8 @@
 ### Hola, soy **Mi Huerta Hidropónica** 👋
 -->
 <!-- BANNER PERSONALIZADO -->
-<!-- Verificar el enlace, el nombre y la extensión del archivo para evitar errores de visualización -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/18164139dc09e94a64895db627938c931a5aaa359a9a57b4a61ce77a58330990/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966" alt="Banner Profesional" width="100%">
+  <img src="https://geomoer.github.io/moer-base-r/assets/images/spotlights/github_header.png" alt="Banner Profesional" width="100%">
 </p>
 
 # Hola 👋, soy Mi Huerta Hidropónica
@@ -220,6 +219,11 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia creando apli
 <p align="center">
 
 ```javascript
+let problemasPorResolver = true;
+const innovar = () => ({ esElegante: true });
+const implementar = () => { problemasPorResolver = false; };
+const impactoPositivo = "¡Impacto Positivo!";
+
 const crearSoluciones = () => {
   while (problemasPorResolver) {
     const solucion = innovar();
@@ -227,6 +231,8 @@ const crearSoluciones = () => {
   }
   return impactoPositivo;
 }
+
+crearSoluciones();
 ```
 
 </div>
@@ -236,7 +242,7 @@ const crearSoluciones = () => {
 </p>
 
 <p align="center">
-  <b>© 2025 Mi Huerta Hidropónica · Todos los derechos reservados</b>
+  <b>© 2026 Mi Huerta Hidropónica · Todos los derechos reservados</b>
 </p>
 
 <p align="center">
